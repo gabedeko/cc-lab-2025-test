@@ -1,0 +1,10 @@
+body {
+    background-color: darkgray;
+}
+
+.intro {
+    font-size: 3rem;
+    color: lavender;
+    text-transform: uppercase;
+
+}
